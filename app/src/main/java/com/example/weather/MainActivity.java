@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
     TextView result;
 
     private final String url= "http://api.openweathermap.org/data/2.5/weather";
-    private final String appid= "1fba53cf28b0f32ade30cad51bf0662a";
+    private final String appid= ""; 
     DecimalFormat df = new DecimalFormat("#.##");
     @Override
     protected void onCreate(Bundle savedInstanceState) {
